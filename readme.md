@@ -1,0 +1,1 @@
+In this project we are going to create a dashboard with chart and graph data using MERN Stack
